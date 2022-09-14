@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Amir Hakimpour
 - 👀 I’m interested in frontend development
 - 🌱 I’m currently learning react js
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me dev.hakimpour@gmail.com
 
 <!---
